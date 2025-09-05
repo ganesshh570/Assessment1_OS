@@ -1,5 +1,0 @@
-mock
-types-mock
-pytest
-psutil
-pytest-mock
